@@ -3,5 +3,5 @@
 "Statistical recognition methods" labs for university magister semester 1
 
 <!-- Status Start -->
-- [ ] lab1
+- [x] lab1 *(Completed: `submit/lab1`)*
 <!-- Status End -->
